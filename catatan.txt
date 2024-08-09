@@ -1,0 +1,10 @@
+// Catatan
+Nama database : public_api_klp_6
+File database : folder database/public_api_klp_6.sql
+
+Kelas B Teknik Informatika
+
+Nama Kelompok : 
+1. Basthian Arisna F55120060
+2. Nuri Iman Sari F55120045
+3. Adelliya Marsya Zagita F55120074
